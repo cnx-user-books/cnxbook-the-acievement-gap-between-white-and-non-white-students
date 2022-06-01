@@ -1,0 +1,1196 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Reading and Math Differences Between Hispanic and White Students in Texas: A 16-Year Analysis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38297</md:content-id>
+  <md:title>Reading and Math Differences Between Hispanic and White Students in Texas: A 16-Year Analysis</md:title>
+  <md:abstract>We analyzed the extent to which differences were present between White students and Hispanic students in their passing rates in reading and in math over a 16-year time period across all Texas elementary schools (ns &gt; 1,000 schools).  As anticipated, White students had statistically significantly higher passing rates in both reading and math for all 16 years, with effect sizes ranging from large to small.  The achievement gap was noticeably greater in reading (i.e., large effect sizes) than in math (i.e., small to moderate effect sizes).  Though statewide and national efforts have been implemented in the past 16 years, the gap in passing rates still reflects a substantial lack of equity.</md:abstract>
+  <md:uuid>afa5caca-17d6-4143-8ba8-2569bb914629</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1164349181250"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+
+
+
+
+
+</para>
+    <note id="eip-230">This manuscript has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration. In addition to publication in the Connexions Content Commons, this module is published in the <link url="http://www.ncpeapublications.org"><emphasis effect="italics">International Journal of Educational Leadership Preparation,</emphasis> </link> Volume 6, Number 2 (April - June, 2011), ISSN 2155-9635. Formatted and edited in Connexions by Theodore Creighton, Virginia Tech, and Janet Tareilo, Stephen F. Austin State University. Brad Bizzell, Virginia Tech serves as Technical Editor.
+</note><section id="eip-618"><title>Sumario en espanol</title><para id="eip-470">Analizamos el punto hasta que diferencias fueron presentes entre estudiantes Blancos y estudiantes hispanos en sus tasas pasajeras en leer y en matemáticas sobre un período de tiempo de 16 años a través de todos los escuelas de enseñanza primaria de Tejas (N&gt; 1.000 escuelas). Como estudiantes anticipados y Blancos tuvieron estadísticamente apreciablemente pasando más alto las tasas en leyendo y las matemáticas para 16 años, con tamaño de efecto que recorren de grande a pequeño. El vacío del logro fue notablemente más grande en leer (es decir, efecto grande calibra) que en matemáticas (es decir, pequeño moderar tamaño de efecto). Aunque los esfuerzos a todo el estado y nacionales han sido aplicados durante los últimos 16 años, el vacío en tasas pasajeras todavía refleja una falta substancial de equidad. 
+</para><note id="eip-359">Esta es una traducción por computadora de la página web original. Se suministra como información general y no debe considerarse completa ni exacta.</note><list id="eip-614" list-type="labeled-item"><title><emphasis>About the Authors</emphasis></title><item><emphasis>Ana Rojas-LeBouef</emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  She recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the website <link url="http://www.writingandstatisticalhelp.com">Writing and Statistical Help.</link>
+</item>
+
+<item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website <link url="http://www.writingandstatisticalhelp.com">Writing and Statistical Help</link> to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item></list></section><section id="id1164366470604">
+      <title>Introduction</title>
+      <para id="id1164357718307">The concept of equity in academic achievement for all students, regardless of ethnicity, is an issue that has captured the attention of politicians, educators, and the federal government since the 1960s with the implementation of the Elementary and Secondary Act of 1965 (Frankenbeg &amp; Lee, 2002; Yell &amp; Drasgow, 2005). The Elementary and Secondary Act (ESEA) was soon followed by the report, A Nation at Risk, in which the low achievement levels of students within the American school system were detailed (A Nation at Risk, 1983). In 2001, the No Child Left Behind Act (NCLB) was created and signed into law (No Child Left Behind, 2002). </para>
+      <para id="id1164375129365">The No Child Left Behind Act is based on “four key principles which grants greater accountability and adaptability when using funds for schools, school districts and states; more freedom and power in selection of schools for disadvantaged parents; and greater options for teaching methodology, based on empirical research” (2002, p. 9). The aim of the NCLB Act was to create opportunities for all students to be successful, regardless of their academic background, ethnicity, or socio-economic status (No Child Left Behind, 2002; Yell &amp; Drasgow, 2005). One intention behind the implementation of the NCLB Act was to increase state and local accountability, which therefore would ideally increase the equity of all subgroups on a national level by the school year 2013-2014. </para>
+      <para id="id1164365815704">The creation and implementation of the NCLB Act has generated both support and criticism of its effectiveness in decreasing the achievement gap between White students and ethnic minority students (Celeste &amp; Stokes-Brown, 2009; Kim &amp; Sunderman, 2005; Lee, 2002; Lee &amp; Wong, 2004; Powers, 2004; Ravitch, 2009; Rothstein &amp; Jacobsen, 2009; Schiller &amp; Muller, 2003). Proponents of the law argue that the NCLB Act has been successful and has made a lasting effect in diminishing the achievement gap between White students and minority students (Weaver, 2006; Zavadsky, 2006). Researchers have documented the success of the NCLB Act and increased success of school districts across the nation (Jennings &amp; Rentner, 2006; Miners, 2007; Mixed Reactions to NCLB, 2005; Packer, 2007; Zavadsky, 2006). Yet, critics have argued that the NCLB Act has been a burden to school districts, personnel, and students alike (Borkowski &amp; Sneed, 2006; Frankenberg &amp; Orfield, 2006; Jennings &amp; Rentner, 2006; Lewis, 2007; Manzo &amp; Hoff, 1997; Mixed Reactions to NCLB, 2005; Tyler, 2003; Zeus, 2007). Opponents of the NCLB Act, recognizing that test scores have increased, have commented that achievement is in relation to most schools’ focus on test taking skills (Guilfoyle, 2006; Popham, 2007; Smyth, 2008) rather than a legitimate increase in achievement.</para>
+    </section>
+    <section id="id1164353393203">
+      <title>Theoretical Framework</title>
+      <para id="id1164365840644">Acquisition of language and literacy, specifically vocabulary, is the catalyst for future success and academic achievement in school (Kosmoski, Gay, &amp; Vockell, 1990). The success of minority children in education stems from the knowledge and understanding of their family, community and societal influences (Tabors &amp; Snow, 2001). To create academic achievement among students of minority backgrounds, educators must implement strategies that encourage family and communities to support educational success (Foster, 2004). To understand how to create educational success among minority students, an understanding of the dynamics within the community and culture must be demonstrated (Frankenburg, Lee, &amp; Orfield, 2003). The understanding of culture and academic achievement has been conceptualized by Ogbu (1981) in the creation of the cultural-ecological (CE) theory. </para>
+      <para id="id1164366174123">Cultural-ecological theory is based on the premise that minorities’ academic achievement is linked to their ethnicity and to their willingness to conform to their environment (Foster, 2004; Ogbu, 1981). In this theory, minority students have the capability to participate successfully with White students within the classroom and on standardized tests (Lynn, 2006). Differences in academic achievement are based on how the subgroup adapts and conforms to the dominant groups in educational principles (Ogbu, 1981). Ogbu (1981) further explained that conformity is chosen by minorities based on “competencies”, which determines the amount of success one receives by “…abandoning or modifying substantially their competencies for achievement…” within the dominant society (p. 425). According to the CE theory, individuals from some subgroups “chose to conform”, as long as the adaptation to the dominant group does not go against their “rules of behavior for achievement” within their own culture (Ogbu, 1981, p. 425). </para>
+      <section id="id1164369254818">
+        <title>Purpose of the Study</title>
+        <para id="id1164353918772">The purpose of this study was to examine differences in academic achievement among students who were White or Hispanic using archival data from the Texas Education Agency’s (TEA) Academic Excellence Indicator System (AEIS). Data examined were fifth grade reading and math passing rates from the 1993 through the 2009 school years. The fifth grade TAKS test is a component of the Student Success Initiative (SSI) which by law requires students to take the Math and Reading assessment and pass with at least a certain percentage rate to be qualified to advance to the next grade level (Student Success Initiative, n.d.). An examination of the Texas Assessment of Knowledge and Skills (TAKS) Reading and Math tests, as well as the Texas Assessment of Academic Skills (TAAS) Reading and Math tests across a 16-year period assisted in determining the extent to which an achievement gap was present and whether the achievement gap had declined, if any, and the extent to which equity had been established using statewide standardized assessment for students who were White or Hispanic. </para>
+      </section>
+      <section id="id1164372319614">
+        <title>Research Questions</title>
+        <para id="id1164353587110">The following research questions were addressed in this study: (a) What is the difference in passing rates in reading between White students and Hispanic students in elementary school?; (b) What is the difference in passing rates in math between White students and Hispanic students in elementary school?; (c) What trends, if any, are present in the achievement gap in reading passing rates between White students and Hispanic students in elementary school?; and (d) What trends, if any, are present in the achievement gap in math passing rates between White students and Hispanic students in elementary school? The first two research questions were repeated for the 16 years of data analyzed in this study.</para>
+      </section>
+    </section>
+    <section id="id1164360271034">
+      <title>Method</title>
+      <section id="id1164367240259">
+        <title>Participants</title>
+        <para id="id1164365695573">Participants for this study were selected from the Texas Education Agency Academic Excellence Indicator System which collects and stores data pertaining to the TAKS and TAAS standardized examinations. Participants were chosen for this study based on their ethnicity (i.e., White or Hispanic) and involvement in the fifth grade Reading and Math TAAS or TAKS examination scores from the most recent 16 school years (i.e., 1993-1994 through 2008-2009). Fifth grade was selected because students are required to complete the TAAS or the TAKS, when it was administered in the spring of each year. As stated previously, the fifth grade state-mandated assessment is a component of the Student Success Initiative which by law requires students to take the Math and Reading assessment and pass with at least a certain percentage rate to be qualified to advance to the next grade level (Student Success Initiative, n.d.).</para>
+        <para id="id1164359294238"> The number of schools in the State of Texas that reported passing rates in reading and in math of White students and of Hispanic students varied by school year. Texas does not permit the release of information that might allow students to be identified. The requirements for sample sizes to release student information are set in accordance with the Family Education Rights and Privacy Act. Thus, in cases where all Hispanic students at a school obtained a passing score in reading or in math, their data would not be publically available. Similarly, when small numbers of Hispanic students were present at a school, their data would also not be made publically available. Sample sizes of schools are present in Tables 1 through 6. In every case, the sample size for each statistical analysis was over 1,000 schools. Readers should note that the data analysis were aggregated data at the elementary campus level. As such, specific demographic information regarding student characteristics other than Hispanic or White were not available.</para>
+      </section>
+      <section id="id1164369532000">
+        <title>Instrumentation</title>
+        <para id="id1164344903640">Archival data collected through the Academic Excellence Indicator System across a 16-year time period (i.e., 1993-2009) was used to determine the extent to which an achievement gap existed between Hispanic students and White students. The Academic Excellence Indicator System is a composite of information pertaining to all students in the state of Texas. This information was first compiled in 1984 in response to the achievement gap between White students and non-White students and accountability within schools and districts across Texas (Academic Excellence Indicator System, http://ritter.tea.state.tx.us/perfreport/aeis/about.aeis.html). Each year, annual reports are added to the AEIS website and the performance of students are reported in the following areas: results of the TAAS and the TAKS tests; passing rates of students; attendance rates; progress prior year TAKS failures; Exit-level TAKS cumulative passing rates; annual drop out rates; completion rates; and college readiness indicators (Academic Excellence Indicator System, <link url="http://ritter.tea.state.tx.us/perfreport/aeis/about.aeis.html">http://ritter.tea.state.tx.us/perfreport/aeis/about.aeis.html</link>). With the objective of this research study being to examine differences in academic achievement between Hispanic students and White students, data downloaded were the passing rates on the TAKS Reading and Math exams by ethnic membership as well as the TAAS Reading and Math exams by ethnic membership. </para>
+        <para id="id1164346894058"> According to the Texas Education Agency, the Texas Assessment of Knowledge and Skills (TAKS) passing standard for reading and math in the fifth grade are as followed: </para>
+        
+        <section id="eip-29"><para id="eip-723">
+In reading, 40 is the total possible points given to a student to receive 100% passing rate and 28 points for students to receive 70% passing rate; and in writing, 32 is the total possible point that are given to a student to receive 100% passing rate and 18 points for students to receive 56% passing rate (<link url="http://ritter.tea.state.tx.us/perfreport/aeis/2008/glossary.html#appendf">http://ritter.tea.state.tx.us/perfreport/aeis/2008/glossary.html#appendf</link>).
+</para></section><para id="id1164353438428">The State of Texas sets the score for what is considered to be a passing rate, based upon its analysis of item difficulty and student performance, separately for the reading and for the math exams.</para>
+      </section>
+    </section>
+    <section id="id1164366017746">
+      <title>Results</title>
+      <para id="id1164369541936">After checking the assumptions for normality for students’ TAKS and TAAS reading scores and their math scores, it was determined that the datasets for all 16 years of data demonstrated evidence of non-normality. That is, the standardized skewness coefficients (i.e., the skewness value divided by its standard error) and the standardized kurtosis coefficients (i.e., the kurtosis value divided by its standard error) were almost all outside of the boundaries of +/- 3 (Onwuegbuzie &amp; Daniel, 2002). The most likely reason for these students’ TAKS Reading and TAKS Math scores being non-normal is due to the content assessed on these tests being taught in Texas classrooms. Test items on the TAKS are designed to assess the information and skills taught in classroom settings. As such, 50% of the test scores would not be expected to be average or below, on content specifically taught to students. A final explanation is that in norm-referenced measures, student performance is compared to the performance of other peers. In the case of the two TAKS measures, student performance is compared to the number of items answered correctly. Each item receives a specific point value. Students, as noted above, who receive 40 points in Reading are rated as having passed the exam.</para>
+      <para id="id1164366248188">Because student achievement data were not normally distributed, nonparametric procedures were utilized to answer the research questions delineated above. Nonparametric procedures do not have as an assumption that test scores are normally distributed. As such, they are the optimal statistical procedure to use when the assumption of normality of data is violated.</para>
+      <para id="id1164354775958">In regard to the 2008-2009 academic year, the Wilcoxon signed-rank test revealed the presence of statistically significant differences in passing rates in reading between Hispanic students and White students, <emphasis effect="italics">z </emphasis>= -26.18, <emphasis effect="italics">p </emphasis>&lt; .001, and in passing rates in math, <emphasis effect="italics">z </emphasis>= -21.96, <emphasis effect="italics">p </emphasis>&lt; .001. Effect sizes were large, with a Cohen’s <emphasis effect="italics">d</emphasis> of 0.93 for the reading pass rate difference, and moderate, with a Cohen’s <emphasis effect="italics">d</emphasis> of 0.61 for the math pass rate difference (Cohen, 1988). Hispanic students averaged 8.89% points lower in their reading pass rates and 6.73% points lower in their math pass rates than White students.</para>
+      <para id="id1164367981818">Because of the space required to report in detail all of the statistical analyses conducted in this study, only the following information will be provided. Readers are requested to contact the authors directly for the detailed numeric phrases for each analysis. Statistically significant differences were yielded at the .001 level, using the Wilcoxon signed-rank test, in reading and in math between Hispanic and White students for the other 15 years of data analyzed. Effect sizes are depicted for each analysis in Tables 9 and 10, along with the mean difference in student passing rate.</para>
+      
+      
+      <table id="eip-214" summary="descriptive statistics"><title><emphasis effect="italics">Descriptive Statistics for Passing Rates in Reading and in Math for Hispanic Students and for White Students for the 2008-2009 and 2007-2008 School Years</emphasis></title>
+<tgroup cols="4"><tbody>
+  <row>
+    <entry>2008-2009 School Year</entry>
+    <entry><emphasis effect="italics">n</emphasis> of schools</entry>
+    <entry><emphasis effect="italics">M</emphasis></entry>
+    <entry><emphasis effect="italics">SD</emphasis></entry>
+  </row>
+  <row>
+    <entry>Reading Pass Rates</entry>
+    <entry/>
+    <entry/>
+    <entry/>
+  </row>
+  <row>
+    <entry>Hispanic Students</entry>
+    <entry>1,544</entry>
+    <entry>80.17</entry>
+    <entry>10.68</entry>
+  </row>
+  <row>
+    <entry>White Students</entry>
+    <entry>1,544</entry>
+    <entry>89.06</entry>
+    <entry>8.30</entry>
+  </row>
+  <row>
+    <entry>Math Pass Rates</entry>
+    <entry/>
+    <entry/>
+    <entry/>
+  </row>
+  <row>
+    <entry>Hispanic Students</entry>
+    <entry>1,518</entry>
+    <entry>80.69</entry>
+    <entry>11.80</entry>
+  </row>
+  <row>
+    <entry>White Students</entry>
+    <entry>1,518</entry>
+    <entry>87.42</entry>
+    <entry>10.32</entry>
+  </row>
+  <row>
+    <entry>2007-2008 School Year</entry>
+    <entry/>
+    <entry/>
+    <entry/>
+  </row>
+  <row>
+    <entry>Reading Pass Rates</entry>
+    <entry/>
+    <entry/>
+    <entry/>
+  </row>
+  <row>
+    <entry>Hispanic Students</entry>
+    <entry>1,463</entry>
+    <entry>81.33</entry>
+    <entry>10.40</entry>
+  </row>
+  <row>
+    <entry>White Students</entry>
+    <entry>1,463</entry>
+    <entry>89.79</entry>
+    <entry>7.66</entry>
+  </row>
+  <row>
+    <entry>Math Pass Rates</entry>
+    <entry/>
+    <entry/>
+    <entry/>
+  </row>
+  <row>
+    <entry>Hispanic Students</entry>
+    <entry>1,464</entry>
+    <entry>81.25</entry>
+    <entry>11.09</entry>
+  </row>
+  <row>
+    <entry>White Students</entry>
+    <entry>1,464</entry>
+    <entry>88.48</entry>
+    <entry>9.14</entry>
+  </row>
+</tbody>
+
+
+
+
+
+</tgroup>
+</table>
+      
+      
+      <table id="id1164369252780" summary="Descriptive Statistics for Passing Rates in Reading and in Math for Hispanic Students and White Students for the 2006-2007 and 2005-2006 School Years"><title><emphasis effect="italics">Descriptive Statistics for Passing Rates in Reading and in Math for Hispanic Students and White Students for the 2006-2007 and 2005-2006 School Years</emphasis></title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>2006-2007 School Year</entry>
+              <entry><emphasis effect="italics">n</emphasis> of schools</entry>
+              <entry><emphasis effect="italics">M</emphasis></entry>
+              <entry><emphasis effect="italics">SD</emphasis></entry>
+            </row>
+            <row>
+              <entry>Reading Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,459</entry>
+              <entry>77.51</entry>
+              <entry>11.71</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,459</entry>
+              <entry>89.02</entry>
+              <entry>9.01</entry>
+            </row>
+            <row>
+              <entry>Math Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,487</entry>
+              <entry>82.05</entry>
+              <entry>10.75</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,487</entry>
+              <entry>87.93</entry>
+              <entry>8.85</entry>
+            </row>
+            <row>
+              <entry>2005-2006 School Year</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Reading Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,565</entry>
+              <entry>75.91</entry>
+              <entry>11.72</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,565</entry>
+              <entry>87.80</entry>
+              <entry>8.91</entry>
+            </row>
+            <row>
+              <entry>Math Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,501</entry>
+              <entry>77.40</entry>
+              <entry>12.60</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,501</entry>
+              <entry>87.20</entry>
+              <entry>10.26</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup>
+</table>
+      
+      
+      <table id="id1164353522460" summary="Descriptive Statistics for Passing Rates in Reading and in Math for Hispanic Students and White Students for the 2004-2005 and 2003-2004 School Years"><title><emphasis effect="italics">Descriptive Statistics for Passing Rates in Reading and in Math for Hispanic Students and White Students for the 2004-2005 and 2003-2004 School Years</emphasis></title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>2004-2005 School Year</entry>
+              <entry><emphasis effect="italics">n</emphasis> of schools</entry>
+              <entry><emphasis effect="italics">M</emphasis></entry>
+              <entry><emphasis effect="italics">SD</emphasis></entry>
+            </row>
+            <row>
+              <entry>Reading Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,661</entry>
+              <entry>69.92</entry>
+              <entry>13.32</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,661</entry>
+              <entry>84.88</entry>
+              <entry>9.73</entry>
+            </row>
+            <row>
+              <entry>Math Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,580</entry>
+              <entry>74.91</entry>
+              <entry>13.42</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,580</entry>
+              <entry>85.92</entry>
+              <entry>10.16</entry>
+            </row>
+            <row>
+              <entry>2003-2004 School Year</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Reading Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,569</entry>
+              <entry>73.55</entry>
+              <entry>12.96</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,569</entry>
+              <entry>86.83</entry>
+              <entry>9.28</entry>
+            </row>
+            <row>
+              <entry>Math Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,497</entry>
+              <entry>76.49</entry>
+              <entry>13.15</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,497</entry>
+              <entry>87.17</entry>
+              <entry>9.96</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+      
+      
+      <table id="id1164383010508" summary="Descriptive Statistics for Passing Rates in Reading and in Math for Hispanic Students and White Students for the 2002-2003 and 2001-2002 School Years"><title><emphasis effect="italics">Descriptive Statistics for Passing Rates in Reading and in Math for Hispanic Students and White Students for the 2002-2003 and 2001-2002 School Years</emphasis></title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>2002-2003 School Year</entry>
+              <entry><emphasis effect="italics">n</emphasis> of schools</entry>
+              <entry><emphasis effect="italics">M</emphasis></entry>
+              <entry><emphasis effect="italics">SD</emphasis></entry>
+            </row>
+            <row>
+              <entry>Reading Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,967</entry>
+              <entry>77.80</entry>
+              <entry>13.98</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,967</entry>
+              <entry>88.39</entry>
+              <entry>9.80</entry>
+            </row>
+            <row>
+              <entry>Math Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,980</entry>
+              <entry>85.14</entry>
+              <entry>12.66</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,980</entry>
+              <entry>92.45</entry>
+              <entry>8.60</entry>
+            </row>
+            <row>
+              <entry>2001-2002 School Year</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Reading Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,365</entry>
+              <entry>92.23</entry>
+              <entry>8.19</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,365</entry>
+              <entry>96.29</entry>
+              <entry>5.65</entry>
+            </row>
+            <row>
+              <entry>Math Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,378</entry>
+              <entry>96.42</entry>
+              <entry>5.67</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,378</entry>
+              <entry>97.92</entry>
+              <entry>4.07</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+      
+      
+      <table id="id1164361710607" summary="Descriptive Statistics for Passing Rates in Reading and in Math for Hispanic Students and White Students for the 2000-2001 and 1999-2000 School Years"><title><emphasis effect="italics">Descriptive Statistics for Passing Rates in Reading and in Math for Hispanic Students and White Students for the 2000-2001 and 1999-2000 School Years</emphasis></title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>2000-2001 School Year</entry>
+              <entry><emphasis effect="italics">n</emphasis> of schools</entry>
+              <entry><emphasis effect="italics">M</emphasis></entry>
+              <entry><emphasis effect="italics">SD</emphasis></entry>
+            </row>
+            <row>
+              <entry>Reading Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,982</entry>
+              <entry>88.38</entry>
+              <entry>10.29</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,982</entry>
+              <entry>94.62</entry>
+              <entry>6.47</entry>
+            </row>
+            <row>
+              <entry>Math Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,985</entry>
+              <entry>94.35</entry>
+              <entry>7.60</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,985</entry>
+              <entry>96.98</entry>
+              <entry>5.14</entry>
+            </row>
+            <row>
+              <entry>1999-2000 School Year</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Reading Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,937</entry>
+              <entry>85.12</entry>
+              <entry>12.50</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,937</entry>
+              <entry>93.66</entry>
+              <entry>7.20</entry>
+            </row>
+            <row>
+              <entry>Math Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,941</entry>
+              <entry>91.37</entry>
+              <entry>9.36</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,941</entry>
+              <entry>95.72</entry>
+              <entry>6.04</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+      
+      
+      <table id="id1164358301404" summary="Descriptive Statistics for Passing Rates in Reading and in Math for Hispanic Students and White Students for the 1998-1999 and 1997-1998 School Years"><title><emphasis effect="italics">Descriptive Statistics for Passing Rates in Reading and in Math for Hispanic Students and White Students for the 1998-1999 and 1997-1998 School Years</emphasis></title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>1998-1999 School Year</entry>
+              <entry><emphasis effect="italics">n</emphasis> of schools</entry>
+              <entry><emphasis effect="italics">M</emphasis></entry>
+              <entry><emphasis effect="italics">SD</emphasis></entry>
+            </row>
+            <row>
+              <entry>Reading Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,847</entry>
+              <entry>84.34</entry>
+              <entry>12.55</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,847</entry>
+              <entry>92.57</entry>
+              <entry>7.97</entry>
+            </row>
+            <row>
+              <entry>Math Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,857</entry>
+              <entry>89.64</entry>
+              <entry>10.19</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,857</entry>
+              <entry>94.32</entry>
+              <entry>7.19</entry>
+            </row>
+            <row>
+              <entry>1997-1998 School Year</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Reading Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,778</entry>
+              <entry>85.93</entry>
+              <entry>12.36</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,778</entry>
+              <entry>93.41</entry>
+              <entry>7.66</entry>
+            </row>
+            <row>
+              <entry>Math Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,781</entry>
+              <entry>88.44</entry>
+              <entry>11.49</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,781</entry>
+              <entry>93.86</entry>
+              <entry>7.36</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+      
+      
+      <table id="id1164369397877" summary="Descriptive Statistics for Passing Rates in Reading and in Math for Hispanic Students and White Students for the 1996-1997 and 1995-1996 School Years"><title><emphasis effect="italics">Descriptive Statistics for Passing Rates in Reading and in Math for Hispanic Students and White Students for the 1996-1997 and 1995-1996 School Years</emphasis></title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>1996-1997 School Year</entry>
+              <entry><emphasis effect="italics">n</emphasis></entry>
+              <entry><emphasis effect="italics">M</emphasis></entry>
+              <entry><emphasis effect="italics">SD</emphasis></entry>
+            </row>
+            <row>
+              <entry>Reading Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,764</entry>
+              <entry>80.47</entry>
+              <entry>14.04</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,764</entry>
+              <entry>91.42</entry>
+              <entry>8.95</entry>
+            </row>
+            <row>
+              <entry>Math Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,759</entry>
+              <entry>83.29</entry>
+              <entry>14.07</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,759</entry>
+              <entry>91.73</entry>
+              <entry>9.23</entry>
+            </row>
+            <row>
+              <entry>1995-1996 School Year</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Reading Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,695</entry>
+              <entry>78.14</entry>
+              <entry>14.86</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,695</entry>
+              <entry>89.47</entry>
+              <entry>9.62</entry>
+            </row>
+            <row>
+              <entry>Math Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,694</entry>
+              <entry>74.39</entry>
+              <entry>16.64</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,694</entry>
+              <entry>86.50</entry>
+              <entry>11.30</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+      
+      
+      <table id="id1164368278912" summary="Descriptive Statistics for Passing Rates in Reading and in Math for Hispanic Students and White Students for the 1994-1995 and 1993-1994 School Years"><title><emphasis effect="italics">Descriptive Statistics for Passing Rates in Reading and in Math for Hispanic Students and White Students for the 1994-1995 and 1993-1994 School Years</emphasis></title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>1994-1995 School Year</entry>
+              <entry><emphasis effect="italics">n</emphasis></entry>
+              <entry><emphasis effect="italics">M</emphasis></entry>
+              <entry><emphasis effect="italics">SD</emphasis></entry>
+            </row>
+            <row>
+              <entry>Reading Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,680</entry>
+              <entry>74.85</entry>
+              <entry>15.80</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,680</entry>
+              <entry>86.56</entry>
+              <entry>10.85</entry>
+            </row>
+            <row>
+              <entry>Math Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,677</entry>
+              <entry>67.31</entry>
+              <entry>17.87</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,677</entry>
+              <entry>80.85</entry>
+              <entry>13.74</entry>
+            </row>
+            <row>
+              <entry>1993-1994 School Year</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Reading Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,688</entry>
+              <entry>72.12</entry>
+              <entry>15.19</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,688</entry>
+              <entry>85.73</entry>
+              <entry>10.79</entry>
+            </row>
+            <row>
+              <entry>Math Pass Rates</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hispanic Students</entry>
+              <entry>1,698</entry>
+              <entry>54.19</entry>
+              <entry>19.14</entry>
+            </row>
+            <row>
+              <entry>White Students</entry>
+              <entry>1,698</entry>
+              <entry>71.82</entry>
+              <entry>15.80</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+      <section id="id1164366959461">
+        <title>Trends</title>
+        <para id="id1164357473043"><emphasis effect="bold">Reading.</emphasis> For the 16-year time period, the trend concerning the differences in passing rates in reading between Hispanic students and White students in elementary school revealed a continuous achievement gap. Passing rates in reading for White students averaged 6.73% to 30.87% higher than the average passing rates for Hispanic students over the 16-year time period. The differences in passing rates in reading between Hispanic students and White students were evident in the initial 1993-1994, 2002-2003, and 2004-2005 testing years. During the 1992-1993 school year within the state of Texas, differences may be explained with the transition of TAAS testing from the fall to the spring, as well as the implementation of the TAAS tests for students in grades 4 through grades 8, and a new accountability measure for districts and campuses alike (http://ritter.tea.state.tx.us/student.assessment/resources/studies/testingtimeline.pdf). </para>
+        
+        
+        <table id="id1164354395365" summary="Effect Sizes in Reading Over a 16-Year Time Period"><title><emphasis effect="italics">Effect Sizes in Reading Over a 16-Year Time Period</emphasis></title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Years</entry>
+                <entry><emphasis effect="italics">M </emphasis>Difference</entry>
+                <entry><emphasis effect="italics">d</emphasis></entry>
+                <entry>Effect Size Range</entry>
+              </row>
+              <row>
+                <entry>2008-2009</entry>
+                <entry>8.89</entry>
+                <entry>0.93</entry>
+                <entry>Large</entry>
+              </row>
+              <row>
+                <entry>2007-2008</entry>
+                <entry>8.46</entry>
+                <entry>0.93</entry>
+                <entry>Large</entry>
+              </row>
+              <row>
+                <entry>2006-2007</entry>
+                <entry>11.51</entry>
+                <entry>1.10</entry>
+                <entry>Large</entry>
+              </row>
+              <row>
+                <entry>2005-2006</entry>
+                <entry>11.89</entry>
+                <entry>1.41</entry>
+                <entry>Large</entry>
+              </row>
+              <row>
+                <entry>2004-2005</entry>
+                <entry>14.96</entry>
+                <entry>1.28</entry>
+                <entry>Large</entry>
+              </row>
+              <row>
+                <entry>2003-2004</entry>
+                <entry>13.28</entry>
+                <entry>1.18</entry>
+                <entry>Large</entry>
+              </row>
+              <row>
+                <entry>2002-2003</entry>
+                <entry>10.59</entry>
+                <entry>0.88</entry>
+                <entry>Large</entry>
+              </row>
+              <row>
+                <entry>2001-2002</entry>
+                <entry>4.06</entry>
+                <entry>0.58</entry>
+                <entry>Moderate</entry>
+              </row>
+              <row>
+                <entry>2000-2001</entry>
+                <entry>6.24</entry>
+                <entry>0.73</entry>
+                <entry>Moderate</entry>
+              </row>
+              <row>
+                <entry>1999-2000</entry>
+                <entry>8.54</entry>
+                <entry>0.84</entry>
+                <entry>Large</entry>
+              </row>
+              <row>
+                <entry>1998-1999</entry>
+                <entry>8.23</entry>
+                <entry>0.78</entry>
+                <entry>Near-Large</entry>
+              </row>
+              <row>
+                <entry>1997-1998</entry>
+                <entry>7.48</entry>
+                <entry>0.73</entry>
+                <entry>Moderate</entry>
+              </row>
+              <row>
+                <entry>1996-1997</entry>
+                <entry>10.95</entry>
+                <entry>0.93</entry>
+                <entry>Large</entry>
+              </row>
+              <row>
+                <entry>1995-1996</entry>
+                <entry>11.33</entry>
+                <entry>0.91</entry>
+                <entry>Large</entry>
+              </row>
+              <row>
+                <entry>1994-1995</entry>
+                <entry>11.71</entry>
+                <entry>0.79</entry>
+                <entry>Near-Large</entry>
+              </row>
+              <row>
+                <entry>1993-1994</entry>
+                <entry>13.61</entry>
+                <entry>1.03</entry>
+                <entry>Large</entry>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+        <para id="id1164353805461">Differences in passing rates between Hispanic students and White students were also discernible during the 2002-2003 school year, which coincided with the signing of the No Child Left Behind Act. As mentioned previously, this law was enacted to bring stricter accountability for school campuses and districts, as well as 100% passing rates for all students by the 2013-2014 school year. The greatest difference in achievement between Hispanic students and White students was evident during the 2003-2005 school years. This wide discrepancy in passing rate between students corresponded with the administration of the Texas Assessment of Knowledge and Skills test (http://ritter.tea.state.tx.us/student.assessment/resources/studies/testingtimeline.pdf). By the 2005-2006 school year, the mean difference between both groups began to decline and continued to decline through the 2008-2009 school year. The smallest gap occurred during the 2001-2002 school year (4.06%). Readers are referred to Figure 1 for the trend that was present concerning the difference in passing rates in reading between Hispanic students and White students in elementary school, across a 16-year time period. </para>
+        <para id="id1164355533583"><title><emphasis effect="italics">Figure 1. </emphasis>Trend Present Concerning the Difference in Passing Rates in Reading between Hispanic Students and White Students in Elementary School, Across a 16-Year Time Period</title><media id="id27091674" alt=""><image src="../../media/figure 1a.png" mime-type="image/gif"/></media></para>
+        
+        <para id="id1164357563872"><emphasis effect="bold">Math.</emphasis> For the 16-year time period, the trend concerning the differences in passing rates in math between Hispanic students and White students in elementary school revealed a continuous achievement gap. Specifically, a trend with differences between Hispanic and White students was present for all 16 years of data analyzed. Average differences between White students were 1.50% to 13.61% higher than Hispanic students for math. The differences in passing rates in math between Hispanic students and White students were evident in the initial 1993-1994, 1994-1995, 2003-2004, and 2004-2005 testing years. During the 1993-1995 school years within the state of Texas, differences may be explained with the transition of TAAS testing from the fall to the spring, as well as the implementation of the TAAS tests for students in grades 4 through grades 8, and a new accountability measure for districts and campuses alike (http://ritter.tea.state.tx.us/student.assessment/resources/studies/testingtimeline.pdf). </para>
+        
+        
+        <table id="id1164356835586" summary="Effect Sizes in Math Over a 16-Year Time Period"><title><emphasis effect="italics">Effect Sizes in Math Over a 16-Year Time Period</emphasis></title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Years</entry>
+                <entry><emphasis effect="italics">M </emphasis>Difference</entry>
+                <entry><emphasis effect="italics">d</emphasis></entry>
+                <entry>Effect Size Range</entry>
+              </row>
+              <row>
+                <entry>2008-2009</entry>
+                <entry>6.73</entry>
+                <entry>0.61</entry>
+                <entry>Moderate</entry>
+              </row>
+              <row>
+                <entry>2007-2008</entry>
+                <entry>7.23</entry>
+                <entry>0.71</entry>
+                <entry>Moderate</entry>
+              </row>
+              <row>
+                <entry>2006-2007</entry>
+                <entry>5.88</entry>
+                <entry>0.60</entry>
+                <entry>Moderate</entry>
+              </row>
+              <row>
+                <entry>2005-2006</entry>
+                <entry>9.80</entry>
+                <entry>0.85</entry>
+                <entry>Large</entry>
+              </row>
+              <row>
+                <entry>2004-2005</entry>
+                <entry>11.01</entry>
+                <entry>0.92</entry>
+                <entry>Large</entry>
+              </row>
+              <row>
+                <entry>2003-2004</entry>
+                <entry>10.68</entry>
+                <entry>0.92</entry>
+                <entry>Large</entry>
+              </row>
+              <row>
+                <entry>2002-2003</entry>
+                <entry>7.31</entry>
+                <entry>0.68</entry>
+                <entry>Moderate</entry>
+              </row>
+              <row>
+                <entry>2001-2002</entry>
+                <entry>1.50</entry>
+                <entry>0.30</entry>
+                <entry>Small</entry>
+              </row>
+              <row>
+                <entry>2000-2001</entry>
+                <entry>2.63</entry>
+                <entry>0.40</entry>
+                <entry>Moderate</entry>
+              </row>
+              <row>
+                <entry>1999-2000</entry>
+                <entry>4.35</entry>
+                <entry>0.55</entry>
+                <entry>Moderate</entry>
+              </row>
+              <row>
+                <entry>1998-1999</entry>
+                <entry>4.68</entry>
+                <entry>0.53</entry>
+                <entry>Moderate</entry>
+              </row>
+              <row>
+                <entry>1997-1998</entry>
+                <entry>5.42</entry>
+                <entry>0.56</entry>
+                <entry>Moderate</entry>
+              </row>
+              <row>
+                <entry>1996-1997</entry>
+                <entry>8.44</entry>
+                <entry>0.71</entry>
+                <entry>Moderate</entry>
+              </row>
+              <row>
+                <entry>1995-1996</entry>
+                <entry>12.11</entry>
+                <entry>0.85</entry>
+                <entry>Large</entry>
+              </row>
+              <row>
+                <entry>1994-1995</entry>
+                <entry>13.54</entry>
+                <entry>0.85</entry>
+                <entry>Large</entry>
+              </row>
+              <row>
+                <entry>1993-1994</entry>
+                <entry>17.63</entry>
+                <entry>1.00</entry>
+                <entry>Large</entry>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+        <para id="id1164355519860">Differences in passing rates between Hispanic students and White students were also discernible during the 2003-2004 and 2003-2004 school years, which coincided with the signing of the No Child Left Behind Act. As mentioned previously, this law was enacted to bring stricter accountability for school campuses and districts, as well as 100% passing rates for all students by the 2013-2014 school year. The greatest differences in achievement between Hispanic students and White students (10.68% and 11.01%) were evident during the 2003-2005 school years. This large discrepancy in passing rate between students corresponds with the administration of the Texas Assessment of Knowledge and Skills test (http://ritter.tea.state.tx.us/student.assessment/resources/studies/testingtimeline.pdf). By the 2005-2006 school year, the mean difference between both groups began to decline and continued to decline through the 2008-2009 school year. The narrowest gap occurred during the 2001-2002 school year (1.50%). This decline was evident the year before the enactment of the No Child Left Behind Act. Readers are referred to Figure 2 for the trend that was present concerning the difference in passing rates in math between Hispanic students and White students in elementary school, across a 16-year time period. </para>
+        <para id="id1164373933999"><title><emphasis effect="italics">Figure 2. </emphasis>Trend Present Concerning the Difference in Passing Rates in Math Between Hispanic Students and White Students in Elementary School, Across a 16-Year Time Period</title><media id="id27091675" alt=""><image src="../../media/figure 2a.png" mime-type="image/gif"/></media></para>
+        
+      </section>
+    </section>
+    <section id="id1164369189294">
+      <title>Discussion</title>
+      <para id="id1164369121231"> In this study, we investigated the passing rates in reading and in math over the past 16 years of Texas statewide data for White students and for Hispanic students on state-mandated assessment measures. Concerning the first research question for 16 academic school years (1993-2009) for Hispanic students and White students in reading, statistically significant differences were yielded for all years of data. From the 1993-2009 school years, the average passing rate of White students was 10.5% higher than the average passing rate of Hispanic students. Effect sizes for the 16-year time period ranged from moderate (0.58- 0.79) to large (0.84-1.41). For Hispanic and White students in reading, a large effect size extended across a 11-year time period and a moderate effect size continued across a 5-year time period. </para>
+      <para id="id1164372109997">Additionally, for the second research question for 16 academic school years for Hispanic students and White students in math, statistically significant differences were yielded for all years of data. Across the 16-year time period, the average passing rate in math for White students was 90.20% whereas, for Hispanic students, the average passing rate was 82.44% in math. For the 1993-2009 data analyzed, White students outperformed Hispanic students by an average of 7.76% in math. The effect size range for the 16-year time period ranged from small (0.30- 0.40), moderate (0.53-0.71), and large (0.85-0.92). For Hispanic and White students in math, a large effect size extended across a 6-year time period, a moderate effect size continued across an 8-year time period, and a small effect size extended for a 2-year time period. </para>
+      <para id="id1164348971733">For the 16-year time period, the trend concerning the differences in passing rates in reading between Hispanic students and White students in elementary school revealed an uninterrupted achievement gap. The passing rates in reading for White students averaged 6.73% to 30.87% higher than the average passing rates for Hispanic students across the 16-year time period. Differences in passing rates in reading between Hispanic students and White students were evident in the initial 1993-1994, 2002-2003, 2004-2005 testing years. </para>
+      <para id="id1164377240466">Pertaining to the 16-year time period, in math, the trend concerning the differences in passing rates between Hispanic students and White students revealed a continuous achievement gap. More accurately, a trend with differences between Hispanic and White students was present for all 16 years of data analyzed. Average differences between White students were 1.50% to 13.61% higher than Hispanic students for math, over the 16-year time period. Differences in passing rates in math between Hispanic students and White students were evident in the initial 1993-1994, 1994-1995, 2003-2004, and 2004-2005 testing years. </para>
+      <para id="id1164359312142">Equity in academic achievement for all students, regardless of ethnicity, is an issue that has captured the attention of politicians, educators, and the federal government (Yell &amp; Drasgow, 2005). The exigency to create equal educational opportunities for all students was actualized during the civil rights movements and the implementation of the Elementary and Secondary Educational Act during the 1960s (Yell &amp; Drasgow, 2005). Equity in education reached a pivotal point when the No Child Left Behind Act of 2001 was enacted, in an effort to create equality for all students through “…stronger accountability for results, more freedom for states and communities, proven education methods, and more choices for parents” (U.S. Department of Education, http://www.ed.gov/nclb/overview/intro/4pillars.html). Provisions of the NCLB Act went into effect the following July, 2003. The foundation of the NCLB Act stemmed from the certainty that an increased role of the federal government in education would develop impartiality for all students (Yell &amp; Drasgow, 2005). </para>
+      <para id="id1164356958437"> Disparities in academic achievement have been a problematic issue among students of different ethnic groups (Alexander, Entwisle, &amp; Olson, 2007; Borba, 2009; Borman &amp; Kimball, 2005; Boyd-Zaharias &amp; Pate-Bain, 2008; Butler &amp; Stevens, 2001; Wallitt, 2008; Zhang &amp; Cowen, 2009). Since the implementation of the NCLB Act, the effectiveness of the law narrowing the achievement gap has been contradictory (Ceci, Papierno, &amp; Mueller-Johnson, 2002; Johnston, 1997). Proponents of the NCLB Act maintain that Black and Hispanic students in fourth grade showed “higher average reading scores in comparison to 2005 and 1992” (National Center for Education Statistics, 2007, http://nces.ed.gov/nationsreportcard/pdf/main2007/2007496_2.pdf). Although Black students (203 points) and Hispanic students (205 points) narrowed the achievement gap by 11 and 16 points, White students (231 points) still maintained a average 27 point advantage in reading for 2007 (National Center for Education Statistics, 2007, http://nces.ed.gov/nationsreportcard/pdf/main2007/2007496_2.pdf). The National Center for Education Statistics (2007) reported fourth grade students with LEP, averaged 188 points in Reading (Nations Report Card, http://nces.ed.gov/nationsreportcard/naepdata/). </para>
+      <para id="id1164357074110"> Planty et al. (2009) indicated that nationally, fourth grade Hispanic students and Black students increased their mathematic scores in 2007, although a statistically significant difference was not present between Black students and White students in the 2005 and 2007 school year. Similarly, the White and Hispanic achievement gap increased in the 1990’s, but stabilized and did not narrow during the 2007 school year (Planty et al., 2009). (Grade 4 National Results, http://nationsreportcard.gov/math_2009/gr4_national.asp?subtab_id=Tab_7&amp;tab_id=tab1#chart). </para>
+      <para id="id1164367609004">In each case and congruent with the extant literature, White students had statistically significant higher passing rates in both reading and in math than did Hispanic students. The gap between the passing rates for these two groups of students remained consistent across all 16 years of statewide data. As such, we believe that this lack of equity needs to be addressed.</para>
+      <para id="id1164351652736">To date, we contend that efforts such as the ESEA and the NCLB Act have not resulted in substantial improvements in the schooling lives of minority children. In our study, we have provided extensive documentation that the schooling lives of Hispanic children are not better as a result of the ESEA and the NCLB Act. An argument could be made that legislation such as the ESEA and the NCLB Act are good for appearance sake, but have no real substance. As such, the lack of equity is permitted to continue, if not, encouraged to continue. Accordingly, we contend that the previous segregation that occurred in school still exists, though now disguised. Prior to ESEA and the NCLB Act, members of minority groups demonstrated statistically significantly lower academic achievement scores than did White students. Years later, in fact decades later, the same achievement gap exists between members of minority groups and White students. The question that should be asked is, “Why do we continue to have a schooling system that continues the same old instructional practices in which minority group persons achieve at a poorer level than White students?” An answer to this question could be that these practices are deliberate and intentional. </para>
+    </section>
+    <section id="id1164373655860">
+      <title>References</title>
+      
+      <list id="eip-946" list-type="labeled-item"><item>A Nation at Risk. (1983). Retrieved from <link url="http://www.ed.gov/pubs/NatAtRisk/risk.html">http://www.ed.gov/pubs/NatAtRisk/risk.html</link></item>
+<item>Academic Excellence Indicator System. (2009). Retrieved from <link url="http://ritter.tea.state.tx.us/perfreport/aeis/about.aeis.html">http://ritter.tea.state.tx.us/perfreport/aeis/about.aeis.html</link></item>
+<item>Alexander, K. L., Entwisle, D. R., &amp; Olson, L. S. (2007). Summer learning and its implications: Insights from the beginning school study. <emphasis effect="italics">New Directions For Youth Development</emphasis>, <emphasis effect="italics">114</emphasis>, 11-32. </item>
+<item>Borba, M. (2009). Caring closes the language-learning gap. Retrieved from <link url="http://www.sccoe.net/depts/ell/elac/0509/CaringClosestheLanguageLearningGap_May09.pdf">http://www.sccoe.net/depts/ell/elac/0509/CaringClosestheLanguageLearningGap_May09.pdf</link></item>
+<item>Borkowski, J. W., &amp; Sneed, M. (2006). Will NCLB improve or harm public education? <emphasis effect="italics">Harvard Educational Review</emphasis>, <emphasis effect="italics">76</emphasis>, 503-525.
+
+</item>
+<item>Borman, G. D., &amp; Kimball, S. M. (2005). Teacher quality and educational equality: Do teachers with higher standards-based evaluation ratings close student achievement gaps? <emphasis effect="italics">The Elementary School Journal, 106</emphasis>(1), 3-19.</item>
+<item>Boyd-Zaharias, J., &amp; Pate-Bain, H. (2008). Class matters-In and out of school. <emphasis effect="italics">Phi Delta Kappan</emphasis>, <emphasis effect="italics">90</emphasis>(1), 40-44.
+</item>
+<item>Butler, F. A., &amp; Stevens, R. (2001). Standardized assessment of the content knowledge of English language learners K-12: Current trends and old dilemmas. <emphasis effect="italics">Language Testing</emphasis>, <emphasis effect="italics">18</emphasis>(4), 409-427.</item>
+<item>Ceci, S. J., Papierno, P. B., &amp; Mueller-Johnson, K. U. (2002). The twisted relationship between school spending and academic outputs: In search of a new metaphor. <emphasis effect="italics">Journal of School Psychology</emphasis>, <emphasis effect="italics">40</emphasis>, 477-484. </item>
+<item>Celeste, L. J., &amp; Stokes-Brown, A. K. (2009). Put to the test: Understanding differences in support for high-stakes testing. <emphasis effect="italics">American Politics Research</emphasis>, <emphasis effect="italics">37</emphasis>, 429-448.</item>
+<item>Cohen, J. (1988). <emphasis effect="italics">Statistical power analysis for the behavioral sciences </emphasis>(2nd ed.)<emphasis effect="italics">.</emphasis> Hillsdale, NJ: Lawrence Erlbaum. </item>
+<item>Foster, K. M. (2004). Coming to terms: A discussion of John Ogbu’s cultural-ecological theory of minority academic achievement. <emphasis effect="italics">Intercultural Education, 15</emphasis>, 369-384. </item>
+<item>Frankenberg, E., &amp; Lee, C. (2002). Race in American public schools: Rapidly resegregating school districts. Retrieved from <link url="http://www.law.harvard.edu/civilrights">http://www.law.harvard.edu/civilrights</link></item>
+<item>Frankenberg, E., Lee, C., &amp; Orfield, G. (2003). A multicultural society with segregated schools: Are we losing the dream? Retrieved from <link url="http://www.civilrightsproject.harvard.edu/">http://www.civilrightsproject.harvard.edu</link></item>
+<item>Frankenberg, E., &amp; Lee, C., &amp; Orfield, G. (2006). The segregation of American teachers. Retrieved from <link url="http://www.civilrightsproject.harvard.edu/">http://www.civilrightsproject.harvard.edu</link></item>
+<item>Grade 4 National Results. Nations Report Card. (2009). Retrieved from <link url="http://nationsreportcard.gov/math_2009/gr4_national.asp?subtab_id=Tab_7&amp;tab_id=tab1#chart">http://nationsreportcard.gov/math_2009/gr4_national.asp?subtab_id=Tab_7&amp;tab_id=tab1#chart</link></item>
+<item>Guilfoyle, C. (2006). NCLB: Is there life beyond testing? <emphasis effect="italics">Educational Leadership</emphasis>, <emphasis effect="italics">64</emphasis>(3), 8-13.</item>
+<item>Jennings, J., &amp; Rentner, D. S. (2006). How public schools are impacted by “No Child Left Behind”. <emphasis effect="italics">Education Digest</emphasis>, <emphasis effect="italics">72</emphasis>(4), 4-9. </item>
+<item>Johnston, R. (1997). Dollars don’t mean success in California district. <emphasis effect="italics">Education Week</emphasis>, <emphasis effect="italics">17</emphasis>(15), 1-4. </item>
+<item>Kim, J. S., &amp; Sunderman, G. L. (2005). Measuring academic proficiency under the No Child Left Behind Act: Implications for educational equity. <emphasis effect="italics">Educational Researcher</emphasis>, <emphasis effect="italics">34</emphasis>(8), 3-13.</item>
+<item>Kosmoski, G. J., Gay, G., &amp; Vockell, E. L. (1990). Cultural literacy and academic achievement. <emphasis effect="italics">Journal of Experimental Education, 58</emphasis>, 265-272.</item>
+<item>Lee, J. (2002). Racial and ethnic achievement gap trends: Reversing the progress of equity? <emphasis effect="italics">Educational Researcher</emphasis>, <emphasis effect="italics">31</emphasis>, 3-12. </item>
+<item>Lee, J., &amp; Wong, K. K. (2004). The impact of accountability on racial and socioeconomic equity: Considering both school resources and achievement outcomes. <emphasis effect="italics">American Educational Research Journal</emphasis>, <emphasis effect="italics">41</emphasis>, 797-832.</item>
+<item>Lewis, A. C. (2007). NCLB not working. <emphasis effect="italics">Education Digest</emphasis>, <emphasis effect="italics">72</emphasis>(5), 69-70. </item>
+<item>Lynn, M. (2006). Race, culture, and the education of African-Americans. <emphasis effect="italics">Educational Theory,</emphasis><emphasis effect="italics">56</emphasis>, 107-119. </item>
+<item>Manzo, K. K., &amp; Hoff, D. J. (1997). High stakes: Test truths or consequences. <emphasis effect="italics">Education Week, 17</emphasis>(8), 1-3.</item>
+<item>Miners, Z. (2007). Open court reading program: A Florida district NCLB success. <emphasis effect="italics">District Administration</emphasis>, <emphasis effect="italics">43</emphasis>(3), 24-27. </item>
+<item>Mixed Reactions to NCLB. (2005). <emphasis effect="italics">Reading Today</emphasis>, <emphasis effect="italics">22</emphasis>(4), 1-4. </item>
+<item>National Center for Education Statistics, U.S. Department of Education. (2007). Reading. Retrieved from <link url="http://nces.ed.gov/nationsreportcard/pdf/main2007/2007496_2.pdf">http://nces.ed.gov/nationsreportcard/pdf/main2007/2007496_2.pdf</link></item>
+<item>Nations Report Card. English Language Learners. (2007). Retrieved from <link url="http://nces.ed.gov/nationsreportcard/naepdata/">http://nces.ed.gov/nationsreportcard/naepdata/</link></item>
+<item>No Child Left Behind. (2006). Retrieved from <link url="http://www.ed.gov/nclb/overview/importance/difference/alabama.pdf">http://www.ed.gov/nclb/overview/importance/difference/alabama.pdf</link></item>
+<item>Ogbu, J. U. (1981). Origins of human competence: A cultural-ecological perspective. <emphasis effect="italics">Child Development</emphasis>, <emphasis effect="italics">52</emphasis>, 413-429. </item>
+<item>Onwuegbuzie, A. J., &amp; Daniel, L. G. (2002). Uses and misuses of the correlation coefficient. <emphasis effect="italics">Research in the Schools, 9</emphasis>(1), 73-90.</item>
+<item>Planty, M., Hussar, W., Snyder, T., Kena, G., KewalRamani, A., Kemp, J., Bianco, K., Dinkes, R. (2009). <emphasis effect="italics">The Condition of Education 2009 </emphasis>(NCES 2009-081). Washington, DC: National Center for Education Statistics, Institute of Education Sciences, U.S. Department of Education. </item>
+<item>Popham, W. J. (2007). Accountability tests’ instructional insensitivity: The time bomb ticket. <emphasis effect="italics">Education Week</emphasis>, <emphasis effect="italics">27</emphasis>(12), 30-31. </item>
+<item>Powers, J. M. (2004). High stakes accountability and equity: Using evidence from California’s public schools accountability act to address the issues in “Williams v. state of California”. <emphasis effect="italics">American Educational Research Journal</emphasis>, <emphasis effect="italics">41</emphasis>, 763-795. </item>
+<item>Ravitch, D. (2009). Time to kill ‘No Child Left Behind’. <emphasis effect="italics">Education Week</emphasis>, <emphasis effect="italics">28</emphasis>(33), 36-40. </item>
+<item>Rothstein, R., &amp; Jacobsen, R. (2009). Measuring social responsibility. <emphasis effect="italics">Educational Leadership</emphasis>, <emphasis effect="italics">66</emphasis>(8), 14-19.</item>
+<item>Schiller, K. S., &amp; Muller, C. (2003). Raising the bar and equity? Effects of state high school graduation requirements and accountability policies on students’ mathematics course taking. <emphasis effect="italics">Educational Evaluation and Policy Analysis</emphasis>, <emphasis effect="italics">25</emphasis>, 299-318. </item>
+<item>Smyth, T. S. (2008). Who is No Child Left Behind leaving behind? <emphasis effect="italics">Clearing House,</emphasis><emphasis effect="italics">81</emphasis>(3), 133-137. </item>
+<item>Tabors, P. O., &amp; Snow, C. E. (2001). Young bilingual children and early literacy development. In R. B. Ruddell &amp; N. J. Unrau<emphasis effect="italics"/>(Eds),<emphasis effect="italics"> Theoretical models and process of reading. </emphasis>(pp. 1431-1461). Newark, DE: International Reading Association.</item>
+<item>Texas Assessment of Knowledge and Skills. (2008). Retrieved from <link url="http://ritter.tea.state.tx.us/perfreport/aeis/2008/glossary.html">http://ritter.tea.state.tx.us/perfreport/aeis/2008/glossary.html</link></item>
+<item>Time Line for Testing in Texas. (n.d.). Retrieved from <link url="http://ritter.tea.state.tx.us/student.assessment/resources/studies/testingtimeline.pdf">http://ritter.tea.state.tx.us/student.assessment/resources/studies/testingtimeline.pdf</link></item>
+<item>Tyler, C. E. (2003). NCLB: Tall order for small districts. <emphasis effect="italics">Leadership</emphasis>, <emphasis effect="italics">33</emphasis>(1), 26-28.</item>
+<item>United States Department of Education. (2006). No Child Left Behind. Retrieved from <link url="http://www.ed.gov/nclb/overview/importance/nclbworking.pdf">http://www.ed.gov/nclb/overview/importance/nclbworking.pdf</link></item>
+<item>Wallitt, R. (2008). Cambodian invisibility: Students lost between the “achievement gap” and the “model minority”. <emphasis effect="italics">Multicultural Perspectives</emphasis>, <emphasis effect="italics">10</emphasis>(1), 3-9.</item>
+<item>Weaver, R. (2006). A positive agenda for ESEA. <emphasis effect="italics">Educational Leadership</emphasis>, <emphasis effect="italics">64</emphasis>(3), 32-36.</item>
+<item>Yell, M. L., &amp; Drasgow, E. (2005). <emphasis effect="italics">No Child Left Behind: A guide for professionals</emphasis>. Columbus, OH: Pearson. </item>
+<item>Zavadsky, H. (2006). How NCLB drives success in urban schools. <emphasis effect="italics">Educational Leadership</emphasis>, <emphasis effect="italics">64</emphasis>(3), 69-73.</item>
+<item>Zeus, L. (2007). The war on schools: NCLB, nation creation and the educational construction of whiteness. <emphasis effect="italics">Race, Ethnicity &amp; Education</emphasis>, <emphasis effect="italics">10</emphasis>, 261-278.</item>
+<item>Zhang, H. C., &amp; Cowen, D. J. (2009). Mapping academic achievement and public school choice under No Child Left Behind legislation. <emphasis effect="italics">Southeastern Geographer</emphasis>, <emphasis effect="italics">49</emphasis>(1), 24-40.</item>
+</list>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </section>
+  </content>
+</document>
